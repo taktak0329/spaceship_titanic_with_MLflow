@@ -1,2 +1,3 @@
-# spaceship_titanic_with_MLflow
-made a machine learning model using XGboost for the dataset called "spaceship_titanic" obtained from Kaggle.
+# XGBoost model tracking with MLflow
+made a machine learning model using XGBoost for the dataset called "spaceship_titanic" uploaded on Kaggle.
+model results are logged onto MLflow
